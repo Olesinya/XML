@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+<theory>
+    <li>что такое тестирование</li>
+    <li>багрепорты</li>
+    <li>документация</li>
+    <li>виды тестирования</li>
+    <li>методы тестирования</li>
+    <li>направления тестирования</li>
+</theory>
+<practice>
+ <li>Тестировани API</li>
+<li>Postman, Fidler</li>
+<li>Мобильное тестирование</li>
+<li>Сборка iOS приложений на XCode</li>
+<li>Сборка Android приложения на Android Studio</li>
+<li>Настройка прокси на iOS и Android</li>
+<li>Git</li>
+<li>Jmeter</li>
+
+</root>
